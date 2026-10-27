@@ -3,6 +3,8 @@
 #include <LittleFS.h>
 #include "time.h"
 
+#include<string>
+
 // --- WIFI SETTINGS ---
 const char* ssid = "ID";
 const char* password = "PASSWORD(PlaceHolder)";
